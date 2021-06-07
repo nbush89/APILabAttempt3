@@ -18,7 +18,7 @@ ul{
 
 .container{
     display:flex;
-    flex-direction: row;
+  //default flex direction is row so you dont need this property
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
